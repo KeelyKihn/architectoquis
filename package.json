@@ -1,0 +1,23 @@
+{
+  "name": "architectoquis",
+  "version": "1.0.0",
+  "description": "Build robust web3 applications seamlessly using Python with existing frameworks.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeelyKihn/architectoquis.git"
+  },
+  "keywords": [
+    "voluptates",
+    "ipsam",
+    "cupiditate",
+    "provident",
+    "expedita"
+  ],
+  "author": "DelphineBlock",
+  "license": "MIT",
+  "homepage": "https://github.com/KeelyKihn/architectoquis.git",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
